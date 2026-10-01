@@ -19,4 +19,4 @@ Showcase knowledge of SQL Server and Data Analytics by developing SQL-based anal
 
 
 ## About Me
-Hey! My name is **Kellan Brown**. I'm a **Continuous Improvement Professional** with 5 years of experience in data analysis, lean manufacturing, Operational Excellence and Process Improvement in manufacturing environments. I am utilizing this project as a method to sharpen my skills in data analysis and hone my skills with SQL Server
+Hey! My name is **Kellan Brown**. I'm a **Continuous Improvement Professional** with 5 years of experience in Data Analysis, Lean Manufacturing, Operational Excellence and Process Improvement in manufacturing environments. I am utilizing this project as a method to sharpen my skills in data analysis and hone my skills with SQL Server
