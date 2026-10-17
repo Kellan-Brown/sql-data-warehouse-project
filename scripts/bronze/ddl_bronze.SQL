@@ -3,8 +3,9 @@
 DDL Script: Create Bronze Tables
 ========================================================================
 Script Purpose:
-	This script creates table in teh 'bronze; schema, dropping existing table if they already exist.
-
+	This stored procedure loads data in the 'bronze' schema from extrnal CSV files by:
+	- Truncating the bronze tables before loading data.
+	- 'BULK INSERT' command to load data ftom csv files to bronze tables.
 ========================================================================
 
 */
